@@ -1,0 +1,15 @@
+folders: backend
+movies (frontend)
+
+BACKEND - installation:
+npm i cors
+npm i express
+npm install install
+npm i react-router-dom
+npm i mongodb
+
+database username: hardik20062004
+20June2004
+
+npm install jsonwebtoken
+npm i bcrypt
